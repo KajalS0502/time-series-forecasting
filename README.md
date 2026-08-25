@@ -41,20 +41,3 @@ The forecasting pipeline consists of:
 
 The model is evaluated using Root Mean Squared Error (RMSE).
 
-## Project Structure
-
-```text
-time-series-forecasting/
-│
-├── data/
-│   └── airline-passengers.csv
-│
-├── notebooks/
-│   └── 01_time_series_lstm.ipynb
-│
-├── models/
-│   └── lstm_forecast.h5
-│
-├── README.md
-│
-└── .gitignore
